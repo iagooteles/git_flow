@@ -17,3 +17,10 @@ e este projeto segue o versionamento [SemVer](https://semver.org/spec/v2.0.0.htm
 ### Adicionado
 - index.html
 ---
+
+---
+## [0.1.2] - 2025-04-11
+### Adicionado
+- script.js
+
+---
