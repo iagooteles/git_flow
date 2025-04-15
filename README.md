@@ -13,6 +13,7 @@ Explorar na prática o fluxo de trabalho com Git Flow, utilizando branches como:
 - `feature/*`
 - `hotfix/*`
 - `release/*`
+- `bugfix/*`
 
 ---
 
