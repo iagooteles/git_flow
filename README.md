@@ -28,3 +28,7 @@ Explorar na prática o fluxo de trabalho com Git Flow, utilizando branches como:
 - github-ci e automação;
 
 ---
+
+## AUTORES 
+- IAGO TELES
+- FERNANDO CARVALHO
